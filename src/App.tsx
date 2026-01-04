@@ -39,9 +39,9 @@ export default function Page() {
         {yesPressed ? (
           <>
             <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-            <div className="text-container">Ok yay!!!</div>
-            <a href="https://willyoubemyvalentinevk.vercel.app/" target="_blank">
-            <div><img src="https://sane8.com/storage/2023/12/1.jpg" alt="Clickable Image" style="width:300px;height:auto;"></div>
+            <img src="https://sane8.com/storage/2023/12/1.jpg"></img>
+            <div className="text-container"> Ok yay!!!</div>
+            
           </>
         ) : (
           <>
