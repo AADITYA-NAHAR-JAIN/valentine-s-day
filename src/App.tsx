@@ -40,6 +40,8 @@ export default function Page() {
           <>
             <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
             <div className="text-container">Ok yay!!!</div>
+            <a href="https://willyoubemyvalentinevk.vercel.app/" target="_blank"></a>
+            
           </>
         ) : (
           <>
