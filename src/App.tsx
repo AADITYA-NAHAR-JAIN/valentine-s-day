@@ -41,7 +41,7 @@ export default function Page() {
             <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
             <div className="text-container">Ok yay!!!</div>
             <a href="https://willyoubemyvalentinevk.vercel.app/" target="_blank">
-            <img src="https://tse2.mm.bing.net/th/id/OIP.s00ayBw1b1EeXaZcdser_gHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Clickable Image" style="width:300px;height:auto;">
+            <img src="https://sane8.com/storage/2023/12/1.jpg" alt="Clickable Image" style="width:300px;height:auto;">
           </>
         ) : (
           <>
