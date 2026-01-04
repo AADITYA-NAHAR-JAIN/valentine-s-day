@@ -39,7 +39,7 @@ export default function Page() {
         {yesPressed ? (
           <>
             <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-            <img src="https://sane8.com/storage/2023/12/1.jpg"></img>
+            <img src="https://sane8.com/storage/2023/12/1.jpg" width={200} height={200} />
             <div className="text-container"> Ok yay!!!</div>
             
           </>
